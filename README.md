@@ -1,4 +1,5 @@
-# Final Project
+# Image Tailor
+该项目是我在复旦大学DATA130049课程上的合作期末project。利用图像配准技术拼接两图，使用到SIFT算法、SANSAC算法等。详细内容见report_final.pdf。
 
 ## 开发环境
 基于python3.8 开发，需要安装如下package。由于是在windows下开发的，在linux系统上可能遇到未知问题。如有发现，可以及时联系作者
